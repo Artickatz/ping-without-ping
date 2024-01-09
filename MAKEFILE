@@ -1,0 +1,8 @@
+CC = gcc
+CFLAGS = -Wall -Wextra
+
+ping: ping.c
+	$(CC) $(CFLAGS) ping.c -o ping
+
+clean:
+	rm -f ping
