@@ -1,4 +1,4 @@
-# ping-without-ping
+# Program to use packets for a ICMP ping 
 C program to run a ICMP ping without ping command 
 
 ## How to run 
